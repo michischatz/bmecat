@@ -3,7 +3,7 @@
 <!--
     Document   : bmecat_new_catalog_1_2.xsl
     Created on : 12. September 2013, 10:55
-    Author     : mschatz
+    Author     : Michael Schatz
     Description:
         Purpose of transformation follows.
 -->
